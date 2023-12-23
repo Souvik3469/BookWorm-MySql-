@@ -6,12 +6,12 @@
     "mysql": "^2.18.1",
     "nodemon": "^2.0.19"
   },
-  "name": "backend",
+  "name": "bookworm-backend",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
